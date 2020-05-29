@@ -1,0 +1,3 @@
+Ran with bind mount volume command
+docker run -p 3000:8080 -v /home/coditas/Documents/Docker/vue/:/vue -dit vue-1
+Because Vue needed App.vue file which doesnt automatically generates
